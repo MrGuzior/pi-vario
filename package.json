@@ -1,0 +1,20 @@
+{
+  "name": "pi-vario",
+  "version": "1.0.0",
+  "description": "Controller for a electric variometer for raspberry pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGuzior/pi-vario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrGuzior/pi-vario/issues"
+  },
+  "homepage": "https://github.com/MrGuzior/pi-vario#readme"
+}
